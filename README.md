@@ -1,0 +1,1 @@
+# GHW-INIT-2023-Alexa-Fact-Skill
